@@ -1,22 +1,22 @@
-📉 Customer Churn Prediction
+## Customer Churn Prediction
 
 This project uses machine learning to predict telecom customer churn based on the Telco Customer Churn dataset.
 
-🧠 Models Used
+### Models Used
 - Logistic Regression, Random Forest, XGBoost, SVM, AdaBoost, KNN, etc.
 
-📊 Key Metrics
+### Key Metrics
 - Accuracy, Precision, Recall, F1 Score, AUC-ROC
 
-🔍 SHAP Insights
+### SHAP Insights
 - Month-to-month contracts, high monthly charges, short tenure, and manual payment methods increase churn risk.
 
-✅ Recommendations
+### Recommendations
 - Offer long-term plans, bundle services, promote auto-pay, and improve early customer experience.
 
-⚙️ Tools
+### Tools
 - Python, Scikit-learn, XGBoost, SHAP, Colab
 
-📁 Files
+### Files
 - `.ipynb` notebook with full code
 - `.pdf` report with results and visualizations
